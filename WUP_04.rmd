@@ -56,6 +56,11 @@ From this table, it appears that the median of the graduate students is the grea
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ## Inferential Results
+```{r}
+model1 <- aov(WORDSUM~DEGREE,data=gssDataframe)
+summary.aov(model1)
+```
+The p-value is 0.000236. This is because the p-value is less than 0.05, we reject the null hypothesis.   
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
