@@ -74,4 +74,6 @@ Based on the graph, there is a difference between High School-Graduate and also 
 
 # Discussion and Conclusion
 
+The degree that the person has makes a difference between their average WORDSUM score. The graduate has a higher median and mean. While, having an equal maximum. We rejected the null hypothesis after seeing the AOV results. There is a clear difference. Graduates get the highest average and LT high school gets the lowest average. In a way, it's based off of common sense. A graduate with more experience is expected to perform better. 
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
